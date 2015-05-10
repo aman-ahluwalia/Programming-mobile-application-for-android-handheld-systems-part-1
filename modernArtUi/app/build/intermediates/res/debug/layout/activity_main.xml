@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/surface"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/Rect1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/rect1"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/Rect2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/rect2"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/Rect3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/rect3"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/Rect4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/rect4"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/Rect5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/rect5"
+        android:text="" />
+    
+     <TextView
+        android:id="@+id/RectW"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/rectW"
+        android:text="" />
+     
+    <TextView
+        android:id="@+id/Rect6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/rect1"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/Rect7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/rect2"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/Rect8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/rect3"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/Rect9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/rect4"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/Rect10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/rect5"
+        android:text="" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    
+</LinearLayout><!-- From: file:/C:/Users/Aman%20Ahluwalia/AndroidStudioProjects/modernArtUi/app/src/main/res/layout/activity_main.xml -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Aman Ahluwalia\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Aman Ahluwalia\AndroidStudioProjects\modernArtUi\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e17d7d842e9577d204f38441c3e11a63f6f7ecbe.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surface">#FFFFFF</color>
+    <color name="rect1">#33B5E5</color>
+    <color name="rect2">#AA66CC</color>
+    <color name="rect3">#99CC00</color>
+    <color name="rect4">#FFBB33</color>
+    <color name="rectW">#FFFFFF</color>
+    <color name="rect5">#FF4444</color>
+    <color name="actionbar_background">#FF9800</color>
+</resources>

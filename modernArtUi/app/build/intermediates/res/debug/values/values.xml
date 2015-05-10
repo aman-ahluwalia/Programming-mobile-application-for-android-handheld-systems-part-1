@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Aman%20Ahluwalia/AndroidStudioProjects/modernArtUi/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="actionbar_background">#FF9800</color>
+    <color name="rect1">#33B5E5</color>
+    <color name="rect2">#AA66CC</color>
+    <color name="rect3">#99CC00</color>
+    <color name="rect4">#FFBB33</color>
+    <color name="rect5">#FF4444</color>
+    <color name="rectW">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <!-- From: file:/C:/Users/Aman%20Ahluwalia/AndroidStudioProjects/modernArtUi/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="length">84dp</dimen>
+    <!-- From: file:/C:/Users/Aman%20Ahluwalia/AndroidStudioProjects/modernArtUi/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">More Information</string>
+    <string name="app_name">modernArtUi</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/C:/Users/Aman%20Ahluwalia/AndroidStudioProjects/modernArtUi/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/C:/Users/Aman%20Ahluwalia/AndroidStudioProjects/modernArtUi/app/src/main/res/values/themes.xml -->
+    <eat-comment/>
+    <style name="CustomActionBarTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/actionbar_background</item>
+    </style>
+</resources>
